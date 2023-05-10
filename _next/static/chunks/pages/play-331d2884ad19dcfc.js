@@ -322,7 +322,7 @@
                                             children: "Jackpot up to: "
                                         }), (0, c.jsxs)("h1", {
                                             className: "text-2xl font-semibold",
-                                            children: [(80 * k).toFixed(3), " BNB"]
+                                            children: [(8 * k).toFixed(3), " BNB"]
                                         })]
                                     }), (0, c.jsxs)("div", {
                                         className: "py-4 self-start flex gap-x-10 items-center",
